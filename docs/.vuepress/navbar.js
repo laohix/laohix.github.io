@@ -1,7 +1,7 @@
-import java_se from '../docs/java_se/java_se'
-import java_web from '../docs/java_web/java_web'
-import ssm from '../docs/ssm/ssm'
-import springboot from '../docs/springboot/springboot'
+import java_se from '../java_se/java_se'
+import java_web from '../java_web/java_web'
+import ssm from '../ssm/ssm'
+import springboot from '../springboot/springboot'
 
 const navbar = [
   {
