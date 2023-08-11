@@ -1,0 +1,29 @@
+{
+  "name": "my-docs",
+  "version": "1.0.0",
+  "description": "老嗨的Java学习笔记资料",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "keywords": [
+    "laohai",
+    "老嗨",
+    "java",
+    "spring",
+    "ssm",
+    "vue",
+    "springboot",
+    "springcloud"
+  ],
+  "author": "老嗨",
+  "license": "MIT",
+  "devDependencies": {
+    "@vuepress/client": "2.0.0-beta.66",
+    "vue": "^3.3.4",
+    "vuepress": "2.0.0-beta.66",
+    "vuepress-plugin-copy-code2": "2.0.0-beta.234",
+    "vuepress-plugin-search-pro": "2.0.0-beta.234"
+  }
+}
