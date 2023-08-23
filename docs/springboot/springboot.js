@@ -23,6 +23,10 @@ const springboot = {
           link: '/springboot/04_Git/Git.md',
         },
         {
+          text: '04_Git补充',
+          link: '/springboot/04_Git/git补充.md',
+        },
+        {
           text: '05_微博客项目',
           link: '/springboot/05_微博客项目/微博客项目.md',
         },
