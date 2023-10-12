@@ -3,6 +3,7 @@ import java_web from '../java_web/java_web'
 import ssm from '../ssm/ssm'
 import springboot from '../springboot/springboot'
 import spzx from '../spzx/spzx'
+import stage5 from '../stage5/stage5'
 
 const navbar = [
   {
@@ -14,6 +15,7 @@ const navbar = [
   ssm,
   springboot,
   spzx,
+  stage5,
 ]
 
 export default navbar
