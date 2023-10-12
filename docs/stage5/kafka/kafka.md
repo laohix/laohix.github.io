@@ -4,7 +4,7 @@
 
 - 非必要的业务逻辑以同步(串行)的方式运行，太耗费时间
 
-![kafka-tongbu](./assets/Kafka-tongbu.png)
+![kafka-tongbu](./assets/2023-10-12_14-44-17.png)
 
 - 系统间耦合性太强
 
@@ -12,7 +12,7 @@
 
 - 流量激增导致宕机
 
-![kafka-xuefengtiangu](./assets/Kafka-xuefengtiangu.png)
+![kafka-xuefengtiangu](./assets/2023-10-12_14-45-21.png)
 
 ## 1.2 消息队列Message Queue
 
