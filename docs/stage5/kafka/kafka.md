@@ -37,7 +37,7 @@
 
 ### 1.2.2 消息队列的作用
 
-![kafka-duiliezuoyong](assets/Kafka-duiliezuoyong.png)
+![kafka-duiliezuoyong](assets/2023-10-12_14-51-15.png)
 
 **异步处理**
 
