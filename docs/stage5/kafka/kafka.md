@@ -8,7 +8,7 @@
 
 - 系统间耦合性太强
 
-![kafka-jieouhe](./assets/Kafka-jieouhe.png)
+![kafka-jieouhe](./assets/2023-10-12_14-48-21.png)
 
 - 流量激增导致宕机
 
