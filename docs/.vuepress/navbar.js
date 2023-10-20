@@ -4,6 +4,7 @@ import ssm from '../ssm/ssm'
 import springboot from '../springboot/springboot'
 import spzx from '../spzx/spzx'
 import stage5 from '../stage5/stage5'
+import datastructure from '../datastructure/datastructure'
 
 const navbar = [
   {
@@ -16,6 +17,7 @@ const navbar = [
   springboot,
   spzx,
   stage5,
+  datastructure,
 ]
 
 export default navbar
