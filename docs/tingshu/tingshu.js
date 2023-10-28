@@ -1,7 +1,15 @@
 const tingshu = {
-  text: '听书项目',
+  text: '听书谷粒随享',
   link: '',
   children: [
+    {
+      text: '听书软件环境安装',
+      link: '/tingshu/听书软件环境安装.md',
+    },
+    {
+      text: '听书谷粒随享-前端部署',
+      link: '/tingshu/听书谷粒随享-前端部署.md',
+    },
     {
       text: '第1章 专辑管理',
       link: '/tingshu/第1章 专辑管理.md',
@@ -41,14 +49,6 @@ const tingshu = {
     {
       text: '第10章 直播',
       link: '/tingshu/第10章 直播.md',
-    },
-    {
-      text: '听书谷粒随享-前端部署',
-      link: '/tingshu/听书谷粒随享-前端部署.md',
-    },
-    {
-      text: '听书软件环境安装',
-      link: '/tingshu/听书软件环境安装.md',
     },
     {
       text: 'ElasticSearch入门',
