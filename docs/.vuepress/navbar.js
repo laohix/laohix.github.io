@@ -5,6 +5,7 @@ import springboot from '../springboot/springboot'
 import spzx from '../spzx/spzx'
 import stage5 from '../stage5/stage5'
 import datastructure from '../datastructure/datastructure'
+import tingshu from '../tingshu/tingshu'
 
 const navbar = [
   {
@@ -18,6 +19,7 @@ const navbar = [
   spzx,
   stage5,
   datastructure,
+  tingshu,
 ]
 
 export default navbar
