@@ -35,7 +35,7 @@ export default defineUserConfig({
     sidebar: 'auto',
 
     // 是否启用 编辑此页 链接
-    editLink: true,
+    editLink: false,
 
     // 编辑此页 链接的文字
     editLinkText: '编辑此页',

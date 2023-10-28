@@ -1,5 +1,5 @@
 const datastructure = {
-  text: '数据结构与算法',
+  text: '数据结构',
   link: '/datastructure/datastructure.md',
 }
 

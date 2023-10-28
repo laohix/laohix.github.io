@@ -3,7 +3,10 @@ import java_web from '../java_web/java_web'
 import ssm from '../ssm/ssm'
 import springboot from '../springboot/springboot'
 import spzx from '../spzx/spzx'
-import stage5 from '../stage5/stage5'
+import jvm from '../jvm/jvm'
+import juc from '../juc/juc'
+import mysql from '../mysql/mysql'
+import cloud from '../cloud/cloud'
 import datastructure from '../datastructure/datastructure'
 import tingshu from '../tingshu/tingshu'
 
@@ -17,7 +20,10 @@ const navbar = [
   ssm,
   springboot,
   spzx,
-  stage5,
+  jvm,
+  juc,
+  mysql,
+  cloud,
   datastructure,
   tingshu,
 ]
