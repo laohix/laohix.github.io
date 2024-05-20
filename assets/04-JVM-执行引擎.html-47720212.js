@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-5501549e","path":"/java_adv/jvm/04-JVM-%E6%89%A7%E8%A1%8C%E5%BC%95%E6%93%8E.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1716198854000,"contributors":[{"name":"laohai","email":"1409117198@qq.com","commits":1}]},"filePathRelative":"java_adv/jvm/04-JVM-执行引擎.md","excerpt":""}');export{a as data};

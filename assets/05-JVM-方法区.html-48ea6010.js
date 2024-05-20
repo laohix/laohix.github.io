@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-60d33547","path":"/java_adv/jvm/05-JVM-%E6%96%B9%E6%B3%95%E5%8C%BA.html","title":"一、概念","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1716198854000,"contributors":[{"name":"laohai","email":"1409117198@qq.com","commits":1}]},"filePathRelative":"java_adv/jvm/05-JVM-方法区.md","excerpt":""}');export{a as data};
