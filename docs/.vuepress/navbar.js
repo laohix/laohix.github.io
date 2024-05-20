@@ -1,14 +1,13 @@
 import java_se from '../java_se/java_se'
 import java_web from '../java_web/java_web'
 import ssm from '../ssm/ssm'
-import springboot from '../springboot/springboot'
 import spzx from '../spzx/spzx'
-import jvm from '../jvm/jvm'
-import juc from '../juc/juc'
+import java_adv from '../java_adv/java_adv'
 import mysql from '../mysql/mysql'
 import cloud from '../cloud/cloud'
 import datastructure from '../datastructure/datastructure'
 import tingshu from '../tingshu/tingshu'
+import interview from '../interview/interview'
 
 const navbar = [
   {
@@ -18,14 +17,13 @@ const navbar = [
   java_se,
   java_web,
   ssm,
-  springboot,
   spzx,
-  jvm,
-  juc,
+  java_adv,
   mysql,
   cloud,
   datastructure,
   tingshu,
+  ...interview,
 ]
 
 export default navbar

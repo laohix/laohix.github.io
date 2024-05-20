@@ -1,4 +1,5 @@
-import { defineUserConfig, defaultTheme } from 'vuepress'
+import { defaultTheme } from '@vuepress/theme-default'
+import { defineUserConfig } from 'vuepress'
 import { searchProPlugin } from 'vuepress-plugin-search-pro'
 import { copyCodePlugin } from 'vuepress-plugin-copy-code2'
 import navbar from './navbar'
